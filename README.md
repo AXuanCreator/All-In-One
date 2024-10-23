@@ -1,2 +1,2 @@
 # Codespaces
-a custom codespaces
+this is a common codespaces template
